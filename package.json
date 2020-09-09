@@ -1,0 +1,24 @@
+{
+  "name": "inline-if",
+  "version": "1.0.0",
+  "description": "Replace ?: js inline condition beautifully",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aprakoso98/inline-if.git"
+  },
+  "keywords": [
+    "js",
+    "condition",
+    "inlie-if"
+  ],
+  "author": "aprakoso98",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aprakoso98/inline-if/issues"
+  },
+  "homepage": "https://github.com/aprakoso98/inline-if#readme"
+}
